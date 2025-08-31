@@ -1,5 +1,5 @@
 
-# VentureDesk — GitHub README
+# VentureDesk
 **VentureDesk** — girişimcilerin fikirden ürüne giden yolculuğunu tek bir yerde yöneten, strateji-belge ve ürün-tasarım iş akışlarını birleştiren dashboard.
 Kısa: fikir → belge → wireframe → yüksek sadakat UI → geliştirme. Hepsi tek masada. 🚀
 
